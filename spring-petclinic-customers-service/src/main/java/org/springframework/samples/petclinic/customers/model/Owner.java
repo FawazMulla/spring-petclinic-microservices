@@ -44,7 +44,6 @@ public class Owner {
 
     @Column(name = "first_name")
     @NotBlank
-    private String firstName;
 
     @Column(name = "last_name")
     @NotBlank
