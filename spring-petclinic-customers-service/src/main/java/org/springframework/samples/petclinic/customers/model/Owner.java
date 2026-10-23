@@ -48,7 +48,6 @@ public class Owner {
 
     @Column(name = "last_name")
     @NotBlank
-    private String lastName;
 
     @Column(name = "address")
     @NotBlank
